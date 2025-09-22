@@ -2,8 +2,6 @@
 
 **Python Personal Finance Tracker (PPFT)** is a simple program created to process financial Excel workbooks.
 
-**Note:** This program is not affiliated with the `pynance` python library. 
-
 ## Prerequisites
 
 - **Python 3** with **openpyxl**
